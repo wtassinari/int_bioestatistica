@@ -90,9 +90,7 @@ Esta página representa o repositório do conteúdo da disciplina de Introduçã
 
 - Introdução à Estatística
 
-- Apresentação dos dados em Tabelas
-
-- Apresentação dos dados em Gráficos
+- Apresentação dos dados em Tabelas e Gráficos
 
 - Medidas de Tendência Central
 
@@ -102,31 +100,33 @@ Esta página representa o repositório do conteúdo da disciplina de Introduçã
 
 - Introdução à Probabilidade
 
-- Variáveis Aleatórias Discretas e Contínuas
+- Variáveis Aleatórias 
 
-- Introduão à Inferência Estatística
+- Modelo de Dist. Probabilidades para VA Discretas e Contínuas
+
+- Introdução à Inferência Estatística
 
 
 
 # Avaliação das Disciplinas
 
-- Primeira Avaliação - **P1**: ????
+- Primeira Avaliação - **P1**: 07/10/2024
 
 \vspace{0.3mm}
 
-- Segunda chamada - **P1**: ????
+- Segunda chamada - **P1**: 14/10/2024
 
 \vspace{0.3mm}
 
-- Segunda Avaliação - **P2**: ????
+- Segunda Avaliação - **P2**: 09/12/2024
 
 \vspace{0.3mm}
 
-- Segunda chamada - **P2**: ????
+- Segunda chamada - **P2**: 11/12/2024
 
 \vspace{0.3mm}
 
-- Prova **Optativa**: ????
+- Prova **Optativa**: 16/12/2024
 
 \vspace{0.3mm}
 
@@ -191,6 +191,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
+| Slides | Slides sobre a Aula de Apresentação da Disciplina | [link](https://drive.google.com/file/d/11vxOoONjd_inTxZ4of3Brft9Js5_WRWk/view?usp=sharing)   |
 | Slides | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1NhAgK6ZEiOdUpIhaTHj7wH3DdBDzL69n/view?usp=sharing)   |
 <!-- | Exercícios | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  | -->
 <!-- | Exercícios | Exercícios de fixação a respeito da Aula 1 |  [link](https://drive.google.com/file/d/1y18btGwSEf398IHLlUHFRHSLCm8E9B2L/view?usp=sharing)  | -->
