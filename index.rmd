@@ -329,7 +329,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 <!-- **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing) -->
 
 
-# Listas de Exercício
+# Listas de Exercícios
 
 
 | Atividades |                Tipo de Atividade                            | Links|
