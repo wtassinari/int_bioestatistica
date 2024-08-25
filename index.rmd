@@ -45,7 +45,7 @@ colFmt <- function(x,color) {
 email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 
 ```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="100%", comment=NA}
-knitr::include_graphics('capivaras_rural.png')
+knitr::include_graphics(c('capivaras_rural.png'))
 ```
 
 Esta página representa o repositório do conteúdo da disciplina de Introdução à Bioestatística - 2024-1 (DEMAT/UFRRJ)
@@ -186,7 +186,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 
 ## **Aula 1:** Conceitos Básicos
 
-- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
+- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística. 
 
 
 | Atividades |                Tipo de Atividade                            | Links|
@@ -199,15 +199,14 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 
 
 
-<!-- ## **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos -->
+## **Aula 2:** Apresentação dos dados em tabelas
 
-<!-- - Nessas aulas, serão apresentados técnicas de como se apresenta os dados organizados em tabelas e em gráficos. -->
+- Nessa aula serão apresentados técnicas de como se apresentar os dados organizados em tabelas.
 
 
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
-<!-- |  -          | **Apresentção dos dados em tabelas** |    | -->
-<!-- | Slides | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1dmaVVeVi55ivVFhYZRelfRvoiI0PkirK/view?usp=sharing)   | -->
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Slides | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1NzMhSjiHqxEZdF7a-I_spQoRRbrJ0nUa/view?usp=sharing)   |
 <!-- |  -          | **Apresentção dos dados em gráficos** |    | -->
 <!-- | Slides | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   | -->
 <!-- |  -          | **-** |    | -->
