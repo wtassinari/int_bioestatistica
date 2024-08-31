@@ -207,6 +207,16 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 | Slides | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1NzMhSjiHqxEZdF7a-I_spQoRRbrJ0nUa/view?usp=sharing)   |
+
+## **Aula 3:** Apresentação dos dados em gráficos
+
+- Nessa aula serão apresentados técnicas de como se apresentar os dados organizados em gráficos.
+
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Slides | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Xr6MBgFAj8qcpmApBs2iF1OlGeN7LC4y/view?usp=sharing)   |
+
 <!-- |  -          | **Apresentção dos dados em gráficos** |    | -->
 <!-- | Slides | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   | -->
 <!-- |  -          | **-** |    | -->
@@ -334,4 +344,5 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
 | Lista |Lista de Exercícios 1 | [link](https://drive.google.com/file/d/1DJ32hbl_lTSNMKKQCdZmeQ-trooQc1xC/view?usp=sharing)   |
+| Lista |Lista de Exercícios 2 | [link](https://drive.google.com/file/d/1GjUZmDpCX8d_Lba6BpsKOO8Bg52kxnpm/view?usp=sharing)   |
 
