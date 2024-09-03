@@ -225,10 +225,13 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 <!-- | Script | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  | -->
 
 
-<!-- ## **Aula 4:** Medidas de posição e medidas separatrizes -->
+## **Aula 4:** Medidas de posição e medidas separatrizes
 
-<!-- - Para esta aula serão mostrados algumas medidas de posição (ou tendência central) + algumas medidas separatrízes. Além de apresentar como e quando aplicar cada  uma dessas medidas, é mostrado suas vantangens e desvantagens. -->
+- Para esta aula serão mostrados algumas medidas de posição (ou tendência central) + algumas medidas separatrízes. Além de apresentar como e quando aplicar cada  uma dessas medidas, é mostrado também suas vantangens e desvantagens.
 
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Slides | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1yq4LvZiwSUnTSPqxXrTekEQ7SNQ0XMb3/view?usp=sharing)   |
 
 <!-- | Atividades  |       Tipo de Atividade                                      | Links| -->
 <!-- | :---------: | ------------------------------------------------------------ | :---:| -->
