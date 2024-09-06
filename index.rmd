@@ -233,12 +233,13 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ------------------------------------------------------------ | :----: |
 | Slides | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1yq4LvZiwSUnTSPqxXrTekEQ7SNQ0XMb3/view?usp=sharing)   |
 
-<!-- | Atividades  |       Tipo de Atividade                                      | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :---:| -->
-<!-- | Slides | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1MN4C_O_pwFysI2eTOY-MAGLfkY0YG-K1/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 4 | [link](https://drive.google.com/file/d/1qtW6AV6Q2OxQrXugMlDatLLNyohjBuNS/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 4 | [link](https://drive.google.com/file/d/1fp_0wfdOlH1BY8zcG3T3DS0cWzbhWY-S/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 4 |  [link](https://drive.google.com/file/d/1REhk4TowwN1E3R8K6pA-sa_kIk8hCj8r/view?usp=sharing)  | -->
+## **Aula 5:** Medidas de dispersão ou variabilidade
+
+- Nessa aula serão apresentadas as principais medidas de variabiliade. Medidas de variabilidade indicam o quanto os dados se dispersam em relação à média ou entre si. As principais medidas incluem o desvio padrão, a variância e o coeficiente de variáção, que ajudam a entender a distribuição e a consistência dos dados.
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Slides | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1KXEQRs7Bbm5GFtkcBm0zPIofoWHnsddq/view?usp=sharing)   |
 
 <!-- ## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose -->
 
