@@ -207,6 +207,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 | Slides | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1NzMhSjiHqxEZdF7a-I_spQoRRbrJ0nUa/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a aula 2 | [link](https://drive.google.com/file/d/1DJ32hbl_lTSNMKKQCdZmeQ-trooQc1xC/view?usp=sharing)  |
 
 ## **Aula 3:** Apresentação dos dados em gráficos
 
@@ -216,13 +217,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 | Slides | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Xr6MBgFAj8qcpmApBs2iF1OlGeN7LC4y/view?usp=sharing)   |
-
-<!-- |  -          | **Apresentção dos dados em gráficos** |    | -->
-<!-- | Slides | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   | -->
-<!-- |  -          | **-** |    | -->
-<!-- | Exercícios | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1_wIxJAMTAeOWVSu_1i9IR6inm1IQwAGH/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  | -->
+| Exercícios |Lista de Exercícios sobre a aula 3 | [link](https://drive.google.com/file/d/1GjUZmDpCX8d_Lba6BpsKOO8Bg52kxnpm/view?usp=sharing)   |
 
 
 ## **Aula 4:** Medidas de posição e medidas separatrizes
@@ -232,46 +227,30 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 | Slides | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1yq4LvZiwSUnTSPqxXrTekEQ7SNQ0XMb3/view?usp=sharing)   |
+| Exercícios |Lista de Exercícios sobre a aula 4 | [link](https://drive.google.com/file/d/1r6wjhDn5GuNMVQ8r1vnYqjWtDTA7pYkf/view?usp=sharing)   |
 
 ## **Aula 5:** Medidas de dispersão ou variabilidade
 
-- Nessa aula serão apresentadas as principais medidas de variabiliade. Medidas de variabilidade indicam o quanto os dados se dispersam em relação à média ou entre si. As principais medidas incluem o desvio padrão, a variância e o coeficiente de variáção, que ajudam a entender a distribuição e a consistência dos dados.
+- Nessa aula serão apresentadas as principais medidas de variabiliade. Medidas de variabilidade indicam o quanto os dados se dispersam em relação à média ou entre si. As principais medidas incluem o desvio padrão, a variância e o coeficiente de variação, que ajudam a entender a distribuição e a consistência dos dados. Também iremos aprender como se constroi um *BoxPlot*, e como é feito o cálculo para a detecção de *OutLiers*
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 | Slides | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1KXEQRs7Bbm5GFtkcBm0zPIofoWHnsddq/view?usp=sharing)   |
-
-<!-- ## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose -->
-
-<!-- - Nessas aulas, serão apresentados as principais medidas de variabiliade, as medidas de Simetria e Curtose, como se constroi um *BoxPlot*, e como é feito o cálculo para a detecção de *OutLiers*. -->
+| Exercícios |Lista de Exercícios sobre a aula 5 | [link](https://drive.google.com/file/d/1q9Lqeh99n8Zy7VUazXRmVZpuKaq0SJva/view?usp=sharing)   |
 
 
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :---:| -->
-<!-- |  -          | **Medidas de dispersão** |    | -->
-<!-- | Slides | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1rN0dOCIQOi23Yt1q8T-DfGWFxfRPn8IO/view?usp=sharing)   | -->
-<!-- |  -          | **Medidas de assimetria e curtose + boxplot** |    | -->
-<!-- | Slides | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   | -->
-<!-- |  -          | **-** |    | -->
-<!-- | Exercícios | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1qxkXV-uLpdfUcMkt0JSCBOCh921S80Or/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  | -->
-<!-- | Exercícios | **Lista extra de exercícios** de fixação a respeito das Aulas 1, 2, 3, 4, 5 e  6 |  [link](https://drive.google.com/file/d/1I2QQCXe-uYnEtUu_8ebuNZRRSYe7hwXm/view?usp=share_link)  | -->
+## **Aula 6:** Medidas de Associação 
 
-<!-- ## **Aula 7:** Análise Bidimensional (ou medidas de associação) -->
+- Para esta aula serão mostrados algumas medidas mais usuais para investigar a associação entre variáveis qualitativas e quantitativas, são elas:
 
-<!-- - Para esta aula serão mostrados algumas medidas mais usuais para investigar a associação entre variáveis qualitativas e quantitativas, são elas:  -->
+    1) Para variáveis qualitativas ou categóricas: Estatística de Qui-Quadrado e o coeficiente de Contingência de Pearson;
+    2) Para variáveis quantitativas: Diagrama de Dispersão e o Coeficiente de Correlação Linear de Pearson.
+    
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Slides | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/16YH81ikEasiKIP1RrXWFu-MocD-pTuHu/view?usp=sharing)   |
+| Exercícios |Lista de Exercícios sobre a aula 6 | [link](https://drive.google.com/file/d/1YOSAMuEsmR5nnU9exqVv-9GZTHQ6WuD4/view?usp=sharing)   |
 
-<!--     1) Para variáveis qualitativas ou categóricas: Estatística de Qui-Quadrado e o coeficiente de Contingência de Pearson; -->
-<!--     2) Para variáveis quantitativas: Diagrama de Dispersão e o Coeficiente de Correlação Linear de Pearson. -->
-
-
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Slides | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1TIoHctWDjDlCmmjEsl8fx9BLWXhPqlWo/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 7 | [link](https://drive.google.com/file/d/1-CPNf4iRZV6ZLgz69v9vIerxbop5OBBr/view?usp=sharing)  | -->
-<!-- | Script | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  | -->
 
 
 <!-- ## **Aula 8:** Introdução à probabilidade -->
@@ -342,12 +321,12 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 <!-- **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing) -->
 
 
-# Listas de Exercícios
+<!-- # Listas de Exercícios -->
 
 
-| Atividades |                Tipo de Atividade                            | Links|
-| :---------: | ---------------------------------------------------------- | :---: |
-| Lista |Lista de Exercícios 1 | [link](https://drive.google.com/file/d/1DJ32hbl_lTSNMKKQCdZmeQ-trooQc1xC/view?usp=sharing)   |
-| Lista |Lista de Exercícios 2 | [link](https://drive.google.com/file/d/1GjUZmDpCX8d_Lba6BpsKOO8Bg52kxnpm/view?usp=sharing)   |
-| Lista |Lista de Exercícios 3 | [link](https://drive.google.com/file/d/1r6wjhDn5GuNMVQ8r1vnYqjWtDTA7pYkf/view?usp=sharing)   |
+<!-- | Atividades |                Tipo de Atividade                            | Links| -->
+<!-- | :---------: | ---------------------------------------------------------- | :---: | -->
+<!-- | Lista |Lista de Exercícios 1 | [link](https://drive.google.com/file/d/1DJ32hbl_lTSNMKKQCdZmeQ-trooQc1xC/view?usp=sharing)   | -->
+<!-- | Lista |Lista de Exercícios 2 | [link](https://drive.google.com/file/d/1GjUZmDpCX8d_Lba6BpsKOO8Bg52kxnpm/view?usp=sharing)   | -->
+<!-- | Lista |Lista de Exercícios 3 | [link](https://drive.google.com/file/d/1r6wjhDn5GuNMVQ8r1vnYqjWtDTA7pYkf/view?usp=sharing)   | -->
 
