@@ -248,21 +248,21 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
     
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Slides | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/16YH81ikEasiKIP1RrXWFu-MocD-pTuHu/view?usp=sharing)   |
+| Slides | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1uKXcZVFM2Pa99kgKgxl3bVkf1CJFJQVH/view?usp=sharing)   |
 | Exercícios |Lista de Exercícios sobre a aula 6 | [link](https://drive.google.com/file/d/1YOSAMuEsmR5nnU9exqVv-9GZTHQ6WuD4/view?usp=sharing)   |
 
 
 
-<!-- ## **Aula 8:** Introdução à probabilidade -->
+## **Aula 7:** Introdução à probabilidade
 
-<!-- - Para esta aula serão apresentados alguns conceitos de teoria da probabilidade, explorando os seguintes tópicos: experimento aleatório, espaço amostral, eventos, probabilidade condicional, teorema da probabilidade total e teorema de Bayes. -->
+- Para esta aula serão apresentados alguns conceitos de teoria da probabilidade, explorando os seguintes tópicos: experimento aleatório, espaço amostral, eventos, probabilidade condicional, teorema da probabilidade total e teorema de Bayes.
 
 
-<!-- | Atividades  |       Tipo de Atividade                                     | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Slides | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/11xOziWbflgb03HnSS65FiE0fNRDpGMyN/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 8 | [link](https://drive.google.com/file/d/1j3LJEgES5ncZ6dvzL7kEDagSshyh4YVt/view?usp=sharing) | -->
+| Atividades  |       Tipo de Atividade                                     | Links |
+| :---------: | ------------------------------------------------------------ | :---: |
+| Slides | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1E8cqpeoJU2YgkDiaqkN77Vt3eW8IfhX8/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1oM1_yAK2_Kb506bQapBEnFFYH-TV582Y/view?usp=sharing)  |
+| Exercícios | Exercícios de fixação a respeito da Aula 7 | [link](https://drive.google.com/file/d/1j3LJEgES5ncZ6dvzL7kEDagSshyh4YVt/view?usp=sharing) |
 
 <!-- ## **Aula 9:** Variáveis aleatórias -->
 
