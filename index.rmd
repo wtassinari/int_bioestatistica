@@ -264,46 +264,45 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Exercícios | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1oM1_yAK2_Kb506bQapBEnFFYH-TV582Y/view?usp=sharing)  |
 | Exercícios | Exercícios de fixação a respeito da Aula 7 | [link](https://drive.google.com/file/d/1j3LJEgES5ncZ6dvzL7kEDagSshyh4YVt/view?usp=sharing) |
 
-<!-- ## **Aula 9:** Variáveis aleatórias -->
+## **Aula 8:** Variáveis aleatórias
 
-<!-- - Para esta aula serão apresentados alguns conceitos a respeito de variáveis aleatórias, mais especificamente va discretas, e de seus principais parâmetros característicos (esperança, variância e desvio padrão) -->
+- Para esta aula serão apresentados alguns conceitos a respeito de variáveis aleatórias, mais especificamente va discretas, e de seus principais parâmetros característicos (esperança, variância e desvio padrão)
 
 
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1QiRC_KRIAentsXCDmHG-fHm7DFppx9G5/view?usp=sharing)   | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1incQSO5YdjQcF1d8_jWkftAFotFNEsC-/view?usp=sharing)  | -->
+| Atividades  |       Tipo de Atividade                                      | Links |
+| :---------: | ------------------------------------------------------------ | :---: |
+| Slides | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1ScJlyq8tmp3aVsE7XqockXaFNNcXDMKM/view?usp=sharing)   |
+| Exercícios | Exercício corrigido sobre a Aula 8 | [link](https://drive.google.com/file/d/1uPAE_7d2W-XKSiXwXcF6uLg5HAPc93CM/view?usp=sharing)  |
 
 <!-- `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')` -->
 
 
-<!-- ## **Aula 10:** Distribuições de probabilidade para VA discretas -->
+## **Aula 9:** Distribuições de probabilidade para VA discretas
 
-<!-- - Para esta aula serão apresentados alguns modelos de probabilidade para variáveis aleatórias discretas, modelos de Bernoulli e modelo Binomial, e seus principais parâmetros característicos (esperança, variância e desvio padrão) -->
-
-
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Slides | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 10 | [link](https://drive.google.com/file/d/1_w9pC70NYY3nD5zp_uyKpMsEfI5ng-_K/view?usp=sharing) | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  | -->
+- Para esta aula serão apresentados alguns modelos de probabilidade para variáveis aleatórias discretas, modelos de Bernoulli e modelo Binomial, e seus principais parâmetros característicos (esperança, variância e desvio padrão)
 
 
-<!-- ## **Aula 11:** Distribuições de probabilidade para VA contínuas -->
-
-<!-- - Para esta aula serão apresentados um modelo de probabilidade para variáveis aleatórias contínuas, o modelos de distribuição normal. -->
-
-
-<!-- | Atividades  |       Tipo de Atividade                                      | Links | -->
-<!-- | :---------: | ------------------------------------------------------------ | :---: | -->
-<!-- | Slides | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   | -->
-<!-- | Exercícios | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  | -->
-<!-- | Exercícios | Exercícios de fixação a respeito da Aula 11 | [link](https://drive.google.com/file/d/1YpH0azmQ5z2-RWVpu7m6BiLcxmyU256C/view?usp=sharing) | -->
-<!-- | Script | Script do R a respeito da Aula síncrona 11 |  [link](https://drive.google.com/file/d/1AghAPAEj_EZA_AZTFudorvXE_z97dGx9/view?usp=sharing)  | -->
+| Atividades  |       Tipo de Atividade                                      | Links |
+| :---------: | ------------------------------------------------------------ | :---: |
+| Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1eglYNF6SD5kdaLpnd6igwtsNVH8CYOfN/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a Aula 9 | [link](https://drive.google.com/file/d/1OURQGH220Wdh6fsMgPqUNhvRULxlOlks/view?usp=sharing)  |
+| Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1_w9pC70NYY3nD5zp_uyKpMsEfI5ng-_K/view?usp=sharing) |
 
 
-<!-- **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing) -->
+## **Aula 10:** Distribuições de probabilidade para VA contínuas
+
+- Para esta aula serão apresentados um modelo de probabilidade para variáveis aleatórias contínuas, o modelos de distribuição normal.
+
+
+| Atividades  |       Tipo de Atividade                                      | Links |
+| :---------: | ------------------------------------------------------------ | :---: |
+| Slides | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/19th95Y1ULZnij4L89eaq_mUuQL1IgYTh/view?usp=sharing)   |
+| Exercícios | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1QjkRAl7r5f0CvUv99e83ZTmmeEUGdh8j/view?usp=sharing)  |
+| Exercícios | Exercícios de fixação a respeito da Aula 10 | [link](https://drive.google.com/file/d/1YpH0azmQ5z2-RWVpu7m6BiLcxmyU256C/view?usp=sharing) |
+
+
+
+**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
 
 <!-- ## **Aula 12:** Introdução à inferência estatística -->
 
