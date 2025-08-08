@@ -48,7 +48,7 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 knitr::include_graphics(c('capivaras_rural.png'))
 ```
 
-Esta página representa o repositório do conteúdo da disciplina de Introdução à Bioestatística - 2024-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplina de Introdução à Bioestatística (DEMAT/UFRRJ)
 
 # Informações Gerais
 
