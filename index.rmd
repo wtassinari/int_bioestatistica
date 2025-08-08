@@ -107,30 +107,29 @@ Esta página representa o repositório do conteúdo da disciplina de Introduçã
 - Introdução à Inferência Estatística
 
 
+<!-- # Avaliação das Disciplinas -->
 
-# Avaliação das Disciplinas
+<!-- - Primeira Avaliação - **P1**: 07/10/2024 -->
 
-- Primeira Avaliação - **P1**: 07/10/2024
+<!-- \vspace{0.3mm} -->
 
-\vspace{0.3mm}
+<!-- - Segunda chamada - **P1**: 14/10/2024 -->
 
-- Segunda chamada - **P1**: 14/10/2024
+<!-- \vspace{0.3mm} -->
 
-\vspace{0.3mm}
+<!-- - Segunda Avaliação - **P2**: 09/12/2024 -->
 
-- Segunda Avaliação - **P2**: 09/12/2024
+<!-- \vspace{0.3mm} -->
 
-\vspace{0.3mm}
+<!-- - Segunda chamada - **P2**: 11/12/2024 -->
 
-- Segunda chamada - **P2**: 11/12/2024
+<!-- \vspace{0.3mm} -->
 
-\vspace{0.3mm}
+<!-- - Prova **Optativa**: 16/12/2024 -->
 
-- Prova **Optativa**: 16/12/2024
+<!-- \vspace{0.3mm} -->
 
-\vspace{0.3mm}
-
-- A média final será composta pela nota da primeira e da segunda avaliação.
+<!-- - A média final será composta pela nota da primeira e da segunda avaliação. -->
 
 <!-- \vspace{0.3mm} -->
 
